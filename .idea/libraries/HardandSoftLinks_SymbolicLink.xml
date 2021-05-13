@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="HardandSoftLinks_SymbolicLink">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jackson-databind-2.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-exec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-io-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-fileupload-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
